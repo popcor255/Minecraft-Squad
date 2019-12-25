@@ -263,6 +263,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-12-17 03:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2019-12-17 03:45:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2019-11-27 05:25:24 +0000"
@@ -538,7 +550,9 @@
       "minecraft:pillager": "2019-12-02 03:42:00 +0000",
       "minecraft:blaze": "2019-12-02 01:14:34 +0000",
       "minecraft:skeleton": "2019-11-27 06:02:19 +0000",
+      "minecraft:zombie_pigman": "2019-12-17 03:52:17 +0000",
       "minecraft:ravager": "2019-12-09 05:58:12 +0000",
+      "minecraft:guardian": "2019-12-17 04:18:14 +0000",
       "minecraft:vindicator": "2019-12-09 04:10:23 +0000",
       "minecraft:spider": "2019-11-27 05:16:23 +0000",
       "minecraft:creeper": "2019-11-30 07:13:53 +0000",
@@ -793,6 +807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2019-12-17 03:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_pillar": "2019-12-02 20:34:26 +0000"
@@ -880,6 +900,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2019-11-27 05:25:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2019-12-17 04:16:38 +0000"
     },
     "done": true
   },
@@ -991,6 +1017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2019-12-17 04:16:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2019-11-27 05:42:04 +0000"
@@ -1097,6 +1129,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2019-11-30 07:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2019-12-17 04:01:17 +0000"
     },
     "done": true
   },
@@ -1247,6 +1285,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2019-11-27 05:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-12-17 04:16:39 +0000"
     },
     "done": true
   },
@@ -1403,6 +1447,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_the_recipe": "2019-12-02 04:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-12-17 04:16:39 +0000"
     },
     "done": true
   },
@@ -1593,6 +1643,7 @@
       "potato": "2019-12-01 23:49:08 +0000",
       "poisonous_potato": "2019-12-03 00:25:33 +0000",
       "pumpkin_pie": "2019-12-01 02:22:19 +0000",
+      "pufferfish": "2019-12-17 03:57:41 +0000",
       "bread": "2019-11-27 06:24:28 +0000",
       "golden_apple": "2019-11-30 07:57:55 +0000",
       "rotten_flesh": "2019-12-02 18:56:35 +0000",
@@ -1849,6 +1900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2019-12-17 03:45:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2019-11-28 06:14:46 +0000"
@@ -2074,6 +2131,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-12-02 18:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2019-12-17 03:52:19 +0000"
     },
     "done": true
   },
